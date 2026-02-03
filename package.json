@@ -26,7 +26,7 @@
     "clsx": "^2.0.0",
     "lucide-react": "^0.279.0",
     "nanoid": "^5.1.5",
-    "next": "^15.4.5",
+    "next": "^16.1.5",
     "next-plausible": "^3.11.3",
     "postcss": "8.5.6",
     "prettier": "^3.0.3",
