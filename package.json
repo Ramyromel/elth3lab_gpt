@@ -30,7 +30,7 @@
     "next-plausible": "^3.11.3",
     "postcss": "8.5.6",
     "prettier": "^3.0.3",
-    "react": "18.2.0",
+    "react": "19.1.1",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.46.1",
     "react-hot-toast": "^2.4.1",
