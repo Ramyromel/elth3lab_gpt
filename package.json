@@ -24,7 +24,7 @@
     "autoprefixer": "10.4.15",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "lucide-react": "^0.279.0",
+    "lucide-react": "^0.542.0",
     "nanoid": "^5.1.5",
     "next": "^16.1.5",
     "next-plausible": "^3.11.3",
